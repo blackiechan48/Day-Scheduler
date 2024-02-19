@@ -11,9 +11,13 @@
 [screenrecord showing inout and what happenes when its refreshed ](/images/Screen%20Recording%202024-02-18%20at%2012.09.25.mov)
 
 ## Techonoly used
-- ** HTML** to build the structure of the scheduler 
-- ** CSS ** used for styling to achieve a better UX
-- ** Javascript** used foor the funtionality 
+- **HTML** to build the structure of the scheduler 
+- **CSS** used for styling to achieve a better UX
+- **Javascript** used foor the funtionality 
 ## References
 - [jQuery Documentation](https://api.jquery.com/)
 - [Day.js Documentation](https://day.js.org/)
+
+## links
+[Git hub Repo](https://github.com/blackiechan48/Day-Scheduler)
+[Deployed website]
