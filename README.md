@@ -20,4 +20,5 @@
 
 ## links
 [Git hub Repo](https://github.com/blackiechan48/Day-Scheduler)
-[Deployed website] (https://blackiechan48.github.io/Day-Scheduler)
+
+[Deployed website](https://blackiechan48.github.io/Day-Scheduler)
